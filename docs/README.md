@@ -25,3 +25,4 @@ OctoAcme follows a lightweight, iterative project lifecycle designed to deliver 
 | [Release & Deployment](octoacme-release-and-deployment.md) | Release checklists, deployment steps, and rollback procedures |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective format, action item tracking, and process iteration |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Definitions and responsibilities for each role involved in a project |
+| [RACI & Decision Rights](octoacme-raci-and-decision-rights.md) | Accountability matrix, decision rights, escalation paths, and stage handoff checklists |
